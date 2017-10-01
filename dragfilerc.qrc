@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ICONS">
+        <file>photosurface.icns</file>
+    </qresource>
+</RCC>
